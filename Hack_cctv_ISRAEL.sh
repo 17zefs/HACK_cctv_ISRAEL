@@ -23,8 +23,6 @@ echo "\033[36;1m"
 echo "[===============================================[>"
 echo "1.> hack cctv israel"
 echo "[===============================================]>"
-echo "0.> keluar"
-echo "[===============================================]>"
 read -p "root@MR.17zefs]~#" bro
 
 if [ $bro = 1 ] || [ $bro = 1 ]
@@ -42,26 +40,6 @@ sleep 1
 echo "http://94.215.185.118:51030/multi.html"
 sleep 1
 echo "http://81.205.127.187:8080/multi.html"
-fi
-
-
-if [ $bro = 0 ] || [ $bro = 00 ]
-then
-echo "\033[32;1mWe Are Family Cybersecurityexpert"
-sleep 1
-echo "\033[33;1mWe Are Anonymous"
-sleep 1
-echo "We Are Legion"
-sleep 1
-echo "We Do Not For Give"
-sleep 1
-echo "We Do Not For Get"
-sleep 1
-echo "The Indonesian Anonymous Family"
-sleep 1
-echo "Expect Us"
-sleep 1
-echo "\033[32;1mIncarlah suatu hal mustahil:) Suatu saat Kamu akan Mendapatkannya:)"
 sleep 1
 exit
 fi
